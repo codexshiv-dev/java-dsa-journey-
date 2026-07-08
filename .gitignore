@@ -26,16 +26,17 @@ bin/
 ### VS Code ###
 .vscode/
 
-### Mac OS ###
-.DS_Store
 # IntelliJ IDEA
 .idea/
+*.iml
 
-# Java class files
+
+# Java compiled files
 *.class
 
 # Logs
 *.log
 
 # OS files
+.DS_Store
 Thumbs.db
